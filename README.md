@@ -1,4 +1,4 @@
-# CovidVac - HIM
+# CovidVac - CD8
 In this study, we analyze the effect of a three-shot vaccination regime against SARS-CoV-2 on the human immune response repertoire. This repository contains the single-cell analysis of T cell receptor (TCR), Gene expression, Surface Proteins (Antibody Captured), and dextramer staining across 14 donors and 7 time points.
 
 ## Data
