@@ -1,4 +1,4 @@
-# CovidVac - HIM
+# CovidVac - CD8
 In this study, we analyze the effect of a three-shot vaccination regime against SARS-CoV-2 on the human immune response repertoire. This repository contains the single-cell analysis of T cell receptor (TCR), Gene expression, Surface Proteins (Antibody Captured), and dextramer staining across 14 donors and 7 time points.
 
 ## Data
@@ -37,5 +37,12 @@ To generate the paper results (if you use the annotated data directly you can st
 If you refer to this work, please consider citing the following paper:
 
 ```
-todo
+@article{kocher2024quality,
+  title={Quality of vaccination-induced T cell responses is conveyed by polyclonality and high, but not maximum, antigen receptor avidity},
+  author={Kocher, Katharina and Drost, Felix and Tesfaye, Abel Mekonnen and Moosmann, Carolin and Sch{\"u}lein, Christine and Grotz, Myriam and D’Ippolito, Elvira and Graw, Frederik and Spriewald, Bernd and Busch, Dirk H and others},
+  journal={bioRxiv},
+  pages={2024--10},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
 ```
